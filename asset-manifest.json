@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stockestic_web/static/css/main.624682c2.css",
+    "main.js": "/stockestic_web/static/js/main.b4432764.js",
+    "static/js/453.9c701c37.chunk.js": "/stockestic_web/static/js/453.9c701c37.chunk.js",
+    "index.html": "/stockestic_web/index.html",
+    "main.624682c2.css.map": "/stockestic_web/static/css/main.624682c2.css.map",
+    "main.b4432764.js.map": "/stockestic_web/static/js/main.b4432764.js.map",
+    "453.9c701c37.chunk.js.map": "/stockestic_web/static/js/453.9c701c37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624682c2.css",
+    "static/js/main.b4432764.js"
+  ]
+}
