@@ -1,0 +1,20 @@
+/* app/client/src/components/Footer.css */
+footer {
+    background-color: #2ecc71; /* 푸터 배경색 */
+    color: white; /* 글자색 */
+    text-align: center; /* 텍스트 중앙 정렬 */
+    padding: 10px 0; /* 패딩 */
+    position: relative; /* 위치 설정 */
+    bottom: 0; /* 하단 고정 */
+    width: 100%; /* 전체 너비 */
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.1); /* 상단 그림자 */
+}
+
+footer a {
+    color: white; /* 링크 색상 */
+    text-decoration: none; /* 밑줄 제거 */
+}
+
+footer a:hover {
+    text-decoration: underline; /* 마우스 오버 시 밑줄 추가 */
+}

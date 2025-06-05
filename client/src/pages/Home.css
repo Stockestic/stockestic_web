@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+}
+
+.home {
+    text-align: center;
+    color: #333;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #6bffdc, #09ff00c8);
+    color: #fff;
+}
+
+.hero-content {
+    z-index: 10;
+    max-width: 600px;
+    text-align: center;
+}
+
+.hero-section .highlight {
+    color: #ffcc00;
+}
+
+.hero-section .cta-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ffcc00;
+    border: none;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.hero-section .cta-button:hover {
+    background: #ffe066;
+}
+
+/* Services Section */
+.services-section {
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+}
+
+.service-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.service-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.service-card img {
+    width: 50px;
+    margin-bottom: 15px;
+}
+
+/* Performance Section */
+.performance-section {
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #ffffff, #dfe9f3);
+}
+
+.performance-graph {
+    background: #e0e0e0;
+    height: 300px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+/* Reviews Section */
+.reviews-section {
+    padding: 60px 20px;
+    background: #f0f8ff;
+}
+
+.review-card {
+    max-width: 300px;
+    margin: 0 auto 20px;
+    font-style: italic;
+}
+
+/* Plans Section */
+.plans-section {
+    padding: 60px 20px;
+    background: #f9f9f9;
+}
+
+.plan-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
